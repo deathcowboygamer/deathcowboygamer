@@ -20,4 +20,4 @@ Olá sou o Gabriel Vigeta, prazer em conhece-ló!😎🤠
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-https://raw.githubusercontent.com/deathcowboygamer/adrianypaola3-ui/output/snake.svg
+https://raw.githubusercontent.com/deathcowboygamer/deathcowboygamer/output/snake.svg
