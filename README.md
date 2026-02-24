@@ -24,4 +24,5 @@ Olá sou o Gabriel Vigeta, prazer em conhece-ló!😎🤠
 
 ## 🏆 Projetos Desenvolvidos 🏆 :
 
-🎮 The History Of Game 🕹: Utilização da linguagens como Phyton(Flask),HTML e CSS, We
+🎮 The History Of Games 🕹: Utilização da linguagens como Phyton(Flask),HTML e CSS, Website informativo que informa desda jogabilidade do jogo,até um resumo de sua história e também ele direciona o usuário até a plataforma que ele pode comprar e baixar o jogo(Steam).
+
