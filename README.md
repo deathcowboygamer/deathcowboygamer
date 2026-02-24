@@ -21,3 +21,7 @@ Olá sou o Gabriel Vigeta, prazer em conhece-ló!😎🤠
 </div>
 
 <img src="https://raw.githubusercontent.com/deathcowboygamer/deathcowboygamer/output/snake.svg" alt = "snake animation" />
+
+## 🏆 Projetos Desenvolvidos 🏆 :
+
+🎮 The History Of Game 🕹: Utilização da linguagens como Phyton(Flask),HTML e CSS, We
